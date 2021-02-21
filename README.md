@@ -1,2 +1,2 @@
 # Numpy-Demonstration
-This is the simple repository for practicing Numpy Syntax.
+This repository contain the practice codes for Numpy library of Python.
